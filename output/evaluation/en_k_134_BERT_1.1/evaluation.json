@@ -1,0 +1,20 @@
+{
+    "k": 134,
+    "lang_code": "en",
+    "num_docs": 73068,
+    "method": "BERT",
+    "version": "1.1",
+    "norm_type": "LEMMA",
+    "pre_trained_name": "distilbert-base-nli-mean-tokens",
+    "random_state": 42,
+    "n_neighbors": 15,
+    "n_components": 5,
+    "min_dist": 0.0,
+    "umap_metric": "cosine",
+    "min_cluster_size": 30,
+    "cluster_metric": "euclidean",
+    "cluster_selection_method": "eom",
+    "c_v": "0.524",
+    "u_mass": "-3.703",
+    "silhouette": -0.082
+}
